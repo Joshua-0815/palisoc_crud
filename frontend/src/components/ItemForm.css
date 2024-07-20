@@ -1,0 +1,11 @@
+.form-grid {
+    gap: 16px;
+}
+
+.subdivision-group {
+    grid-column: span 2;
+}
+
+button {
+    grid-column: span 2;
+}
